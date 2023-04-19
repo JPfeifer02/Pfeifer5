@@ -1,0 +1,11 @@
+[
+    {"Id":0,"WasVisited":false,"AdjacentNodes":[false, true, true, false, false, false, false, false, false]},
+    {"Id":1,"WasVisited":false,"AdjacentNodes":[false, false, false, true, true, false, false, false, false]},
+    {"Id":2,"WasVisited":false,"AdjacentNodes":[false, false, false, false, false, true, false, false, false]},
+    {"Id":3,"WasVisited":false,"AdjacentNodes":[false, false, false, false, false, false, true, false, false]},
+    {"Id":4,"WasVisited":false,"AdjacentNodes":[false, false, false, false, false, false, false, true, false]},
+    {"Id":5,"WasVisited":false,"AdjacentNodes":[false, false, false, false, false, false, false, false, false]},
+    {"Id":6,"WasVisited":false,"AdjacentNodes":[false, false, false, false, false, false, false, false, false]},
+    {"Id":7,"WasVisited":false,"AdjacentNodes":[false, false, false, false, false, false, false, false, true]},
+    {"Id":8,"WasVisited":false,"AdjacentNodes":[false, false, false, false, false, false, false, false, false]}
+]
