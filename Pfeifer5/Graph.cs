@@ -91,7 +91,7 @@ public class Graph : IProcessData, ISearchAlgorithms
     public void ReadData(string filePath)
     {
         string jsonString = File.ReadAllText(filePath);
-        _nodes = JsonSerializer.Deserialize<List<Node>>(jsonString);
+        _nodes = JsonSerializer.Deserialize<List<Node>>(jsonString) ?? new List<Node>();
     }
     /********************************************************************
     *** METHOD DepthFS                                                ***
